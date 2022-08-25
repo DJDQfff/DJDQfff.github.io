@@ -1,3 +1,4 @@
 # DJDQfff.github.io
 
-# [www.baidu.com]!
+www.baidu.com
+
